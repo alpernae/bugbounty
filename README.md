@@ -15,7 +15,7 @@ This repository is designed to be a comprehensive collection of resources, tools
 The repository is organized into the following main categories, each containing relevant files and subdirectories:
 
 <details>
-<summary> <strong>Bug Bounty Note Templates</strong></summary>
+<summary> <strong>0x01 | Bug Bounty Note Templates</strong></summary>
 
 1.  Bug Bounty Testing NoteBook
      * [label](link)
