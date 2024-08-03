@@ -17,7 +17,7 @@ The repository is organized into the following main categories, each containing 
 <details>
 <summary> <strong>Bug Bounty Note Templates</strong></summary>
 
-1. 0x01 | BugBounty Testing Nootbook
+1.  Bug Bounty Testing NoteBook
      * [label](link)
         
 </details>
