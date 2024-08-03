@@ -15,11 +15,10 @@ This repository is designed to be a comprehensive collection of resources, tools
 The repository is organized into the following main categories, each containing relevant files and subdirectories:
 
 <details>
-<summary> <strong>0x01 | Bug Bounty Note Templates</strong></summary>
-
-1.  Bug Bounty Testing NoteBook
-     * [label](link)
-        
+<summary> <strong>0x01 | Bug Bounty Notes and Templates</strong></summary>
+    
+1.  Bug Bounty Testing Note Template
+     * [Personal Bug Bounty Testing Note](https://github.com/alpernae/bugbounty/blob/main/0x01/BugBountyTestingNoteTemplate.md)
 </details>
 
 
