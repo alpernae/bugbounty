@@ -1,6 +1,4 @@
-**Repository Description:**
 
----
 
 **BugBounty & Pentesting Resources - A Comprehensive Collection**
 
