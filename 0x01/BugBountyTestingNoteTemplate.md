@@ -8,10 +8,10 @@ This template was created for bug bounty hunters who like to take notes and stay
 |---|---|---|---|---|---|
 | 1 | Program/Asset Name | URL | Description | Known Issues | Additional Notes |
 
-
 **Additional Notes:**
 
 - Additional Notes
+
 ## 2. Program Details
 
 **Program Rules**
@@ -48,16 +48,12 @@ This template was created for bug bounty hunters who like to take notes and stay
 **Secondary Objectives:**
   * **Update Objectives yourself**
 
-## 5. Testing Methodology 
+## 5. Technologies Found
 
-**Briefly describe your of yours testing methodology and approach**
+| Domain | Technology | Description | Additional Notes |
+|---|---|---|---|
+| Domain | Technology | Brief Description | Additional Notes |
 
-- **Manual Testing:**
-  * your methods
-- **Automated Testing:**
-  * your methods
-- **Documentation:**
-  * your methods
 ## 6. Testing Phases and Findings
 
 **Results and findings from various testing phases and details**
