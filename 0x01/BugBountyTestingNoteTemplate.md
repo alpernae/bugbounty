@@ -1,4 +1,4 @@
-# Personal Bug Bounty Testing Note
+# [PROGRAM_NAME] Bug Bounty Testing Note
 
 This template was created for bug bounty hunters who like to take notes and stay on track.
 
