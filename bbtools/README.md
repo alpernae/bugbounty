@@ -12,5 +12,4 @@ bbtools/
 ```
 
 ### Explanation:
-- **hackerone/**: Contains tools specific to HackerOne, including `h1fetcher.sh`, with potential for additional scripts such as `h1reporter.sh` and `h1alerts.sh`.
-This structure organizes the tools into relevant categories for efficient management and usage.
+- **hackerone/**: Contains tools specific to HackerOne.
