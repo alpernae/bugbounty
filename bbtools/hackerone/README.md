@@ -3,7 +3,7 @@
 The `hackerone/` folder contains tools specifically designed to interact with the HackerOne platform, aiding bug bounty hunters in automating and simplifying tasks associated with managing HackerOne programs and submissions.
 
 <details>
-<summary> <strong>x0x01 | h1fecther</strong></summary>
+<summary> <strong>0x01 | h1fecther</strong></summary>
     
 #### Description:
 `h1fetcher.sh` is a Bash script designed to query a specific HackerOne program for in-scope or out-of-scope targets based on their eligibility for submission. The script retrieves data from the HackerOne API and allows users to filter results based on scope (eligible for submission or not). The filtered results are saved to an output file.
