@@ -6,7 +6,7 @@
 
 **Welcome to my Bug Bounty and Security Testing Resources Repository!**
 
-This repository is designed to be a comprehensive collection of resources, tools, and notes that I've gathered and created throughout my bug bounty and pentesting journey. My goal is to provide a centralized hub for fellow security enthusiasts to learn, explore, and expand their skills.
+This repository is designed to be a comprehensive collection of resources, tools, and notes that I've gathered and created throughout my bug bounty and security researching journey. My goal is to provide a centralized hub for fellow security enthusiasts to learn, explore, and expand their skills.
 
 **Repository Structure**
 
