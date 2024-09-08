@@ -7,9 +7,13 @@ and help bounty hunters focus on identifying security vulnerabilities.
 
 ```
 bbtools/
-├── hackerone/
+├── Hackerone/
 │   ├── h1fetcher.sh
+├── Misconfiguration/
+│   ├── corshunter.sh
+|
 ```
-
+Misconfiguration
 ### Explanation:
-- **hackerone/**: Contains tools specific to HackerOne.
+- **Hackerone/**: Contains tools specific to HackerOne.
+- **Misconfiguration/**: Contains tools specific to Misconfiguration vulnerabilities.
