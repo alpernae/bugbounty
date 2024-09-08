@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Alperen ERGEL
 
 # Banner
 
