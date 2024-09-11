@@ -19,6 +19,13 @@ The repository is organized into the following main categories, each containing 
      * [Personal Bug Bounty Testing Note](https://github.com/alpernae/bugbounty/blob/main/0x01/BugBountyTestingNoteTemplate.md)
 </details>
 
+<details>
+<summary> <strong>0x02 | Bug Bounty Tools</strong></summary>
+    
+1.  HackerOne Related Tools
+     * [HackerOne](https://github.com/alpernae/bugbounty/tree/main/0x02/HackerOne)
+</details>
+
 
 **How to Use this Repository**
 
