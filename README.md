@@ -1,4 +1,4 @@
-**Welcome to my Bug Bounty and Security Testing Resources Repository!**
+**Welcome to my Bug Bounty 🧑🏻‍💻 and Security Testing 🔐 Resources Repository!**
 
 This repository is designed to be a comprehensive collection of resources, tools, and notes that I've gathered and created throughout my bug bounty and security researching journey. My goal is to provide a centralized hub for fellow security enthusiasts to learn, explore, and expand their skills.
 
@@ -22,10 +22,17 @@ The repository is organized into the following main categories, each containing 
 
 <details>
 <summary> <strong>0x03 | 0-100K in Bug Bounty Year 1</strong></summary>
+<br>
 
 This structured 0-100K learning and hunting path is inspired by insights from [@techycodec08](https://x.com/techycodec08) and [@Rhynorater](https://x.com/Rhynorater), including valuable lessons shared on their [podcast](https://youtu.be/yxc2jVKE-jo). The road map focuses on progressing from foundational web security concepts to advanced bug bounty techniques, helping you build skills while moving towards consistent results. With a balance of learning and practical hunting, this roadmap is designed to guide you through key milestones to achieve success in bug bounty programs.
 
+<br>
+
+1. Web Fundamentals
+     * [Month 1: Web Fundamentals](https://github.com/alpernae/bugbounty/tree/test/0x03/Month-1)
+          * [Week 1: HTTP, Browsers, and Web Architecture Basics (6 Days)](https://github.com/alpernae/bugbounty/tree/test/0x03/Month-1/Week-1)
 </details>
+<br>
 
 **How to Use this Repository**
 
