@@ -14,13 +14,8 @@
 ## Week 1 Totals
 | **Type**   | **Hours** |
 |------------|-----------|
-| **Learning Hours (LH):** 24 |
-| **Hunting Hours (HH):** 0  |
+| **Learning Hours (LH):**  |24
+| **Hunting Hours (HH):**   |0
 
 ---
 
-### Notes:
-- Tasks for each day have been expanded with detailed steps and practical examples.
-- Each focus area includes one or more video resources for visual learning.
-- Labs and practical work do not count as hunting hours.
-- Day 6 introduces HTTP/2 as a critical advanced topic.
