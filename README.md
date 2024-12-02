@@ -29,8 +29,6 @@ The repository is organized into the following main categories, each containing 
 <details>
 <summary> <strong>0x03 | 0-100K in Bug Bounty Year 1</strong></summary>
 
-<img src="https://pbs.twimg.com/media/F5V3KE8WoAAZBoH?format=jpg" height="300" width="300">
-
 This structured 0-100K learning and hunting path is inspired by insights from [@techycodec08](https://x.com/techycodec08) and [@Rhynorater](https://x.com/Rhynorater), including valuable lessons shared on their [podcast](https://youtu.be/yxc2jVKE-jo). The road map focuses on progressing from foundational web security concepts to advanced bug bounty techniques, helping you build skills while moving towards consistent results. With a balance of learning and practical hunting, this roadmap is designed to guide you through key milestones to achieve success in bug bounty programs.
 
 </details>
