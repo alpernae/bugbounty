@@ -10,6 +10,14 @@ The `hackerone/` folder contains tools specifically designed to interact with th
 
 </details>
 
+<details>
+<summary> <strong>0x02 | GetScopes</strong></summary>
+
+#### Description:
+A command-line tool designed to automatically collect all in-scope targets from HackerOne bug bounty programs. The tool fetches each program's scope information, including domains and wildcards, making it easier for bug bounty hunters to gather and organize target information.
+
+</details>
+
 #### Key Tools:
 
 - **h1fetcher.sh**: 
