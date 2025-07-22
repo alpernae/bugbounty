@@ -20,6 +20,14 @@ The repository is organized into the following main categories, each containing 
      * [HackerOne](https://github.com/alpernae/bugbounty/tree/main/0x02/HackerOne)
 </details>
 
+<details>
+<summary> <strong>0x03 | Custom Bambda Scripts</strong></summary>
+
+1. Bambda Action Scripts
+     * [HackerOne](https://github.com/alpernae/bugbounty/tree/main/0x02/HackerOne)
+
+</details>
+
 
 **How to Use this Repository**
 

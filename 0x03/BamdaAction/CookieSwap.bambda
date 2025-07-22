@@ -1,0 +1,27 @@
+// Get the original request
+var req = requestResponse.request();
+
+// Modify the request:
+// Remove the existing Cookie header and replace it with a valid session cookie of another (low-privileged or victim) user
+// This is essential for testing IDOR or privilege escalation issues by replaying the request with a different user's context
+var modifiedReq = req
+    .withRemovedHeader("Cookie")
+    .withHeader("Cookie", "xyz"); // Replace 'xyz' with the actual valid session cookie of the target user
+
+// Send the modified request
+var res = api().http().sendRequest(modifiedReq);
+
+// Extract the response status code
+var status = res.response().statusCode();
+logging().logToOutput("Status: " + status);
+
+// If the response is one of the common actionable statuses, log the response body
+if (status == 200 || status == 400 || status == 401 || status == 201) {
+    logging().logToOutput("Response Body:\n" + res.response().bodyToString());
+}
+
+// If the response is a redirect, log the Location header
+else if (status == 302) {
+    var location = res.response().headerValue("Location");
+    logging().logToOutput("Redirect Location: " + location);
+}
