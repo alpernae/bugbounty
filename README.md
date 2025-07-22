@@ -24,7 +24,7 @@ The repository is organized into the following main categories, each containing 
 <summary> <strong>0x03 | Custom Bambda Scripts</strong></summary>
 
 1. Bambda Action Scripts
-     * [Bamda Action Scripts](https://github.com/alpernae/bugbounty/tree/main/0x03/BamdaAction)
+     * [Cookie Swap](https://github.com/alpernae/bugbounty/blob/main/0x03/BamdaAction/CookieSwap.bambda)
 
 </details>
 
