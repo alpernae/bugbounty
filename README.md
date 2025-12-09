@@ -29,6 +29,13 @@ The repository is organized into the following main categories, each containing 
 </details>
 
 
+<summary> <strong>0x04 | AI/LLM and Agent</strong></summary>
+
+1. VS-Code Custom Agent
+     * [Astra](https://github.com/alpernae/bugbounty/blob/main/0x03/BamdaAction/CookieSwap.bambda)
+
+</details>
+
 **How to Use this Repository**
 
 - **Fork** this repository to your own GitHub account.
