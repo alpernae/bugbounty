@@ -7,12 +7,11 @@ Burp Suite Bambda Action Scripts empower you to automate and optimize your bug b
 # Bambda Action Folder Structure
 
 ```
-BambdaAction/
-├── Cookie Swap 
-│   
-|
+BamdaAction/
+├── CookieSwap.bambda
+└── README.md
 ```
 
 ### Explanation
 
-- **CookieSwap**: This script demonstrates how to intercept and modify an HTTP request by replacing its Cookie header with another user's session cookie. It is designed for security testing, such as checking for IDOR or privilege escalation vulnerabilities. The script logs the response status and, depending on the result, outputs either the response body or the redirect location
+- **CookieSwap.bambda**: Intercepts and modifies an HTTP request by replacing its `Cookie` header with another user's session cookie for IDOR/privilege escalation testing. Logs the response status and prints either the response body or redirect location.
