@@ -28,7 +28,7 @@ The repository is organized into the following main categories, each containing 
 
 </details>
 
-
+<details>
 <summary> <strong>0x04 | AI/LLM and Agent</strong></summary>
 
 1. VS-Code Custom Agent
