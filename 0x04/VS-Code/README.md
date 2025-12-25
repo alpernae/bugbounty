@@ -1,6 +1,6 @@
 # 0x04
 
-The `0x04` directory contains resources for integrating AI-powered agents into your bug bounty workflow using Visual Studio Code (VS Code). This section focuses on two key agents: **Astra** and **ReportAI**.
+The `0x04` directory contains resources for integrating AI-powered agents into your bug bounty workflow using Visual Studio Code (VS Code) Copilot. This section focuses on two key agents: **Astra** and **ReportAI**.
 
 ## Folder Structure
 
