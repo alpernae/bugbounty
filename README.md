@@ -1,10 +1,14 @@
-**Welcome to my Bug Bounty 🧑🏻‍💻 and Security Testing 🔐 Resources Repository!**
+<div align="center">
+  <h1>Bug Bounty & Security Testing Resources 🧑🏻‍💻🔐</h1>
+</div>
 
-This repository is designed to be a comprehensive collection of resources, tools, and notes that I've gathered and created throughout my bug bounty and security researching journey. My goal is to provide a centralized hub for fellow security enthusiasts to learn, explore, and expand their skills.
+Hey there! Welcome to my collection of bug bounty and security testing resources. Whether you're just starting out or already deep into your security journey, you'll find tools, notes, and scripts here that I've gathered and created along the way. The goal? To make learning, experimenting, and collaborating in the world of bug bounty a little easier and a lot more fun.
 
-**Repository Structure**
+---
 
-The repository is organized into the following main categories, each containing relevant files and subdirectories:
+## Repository Structure
+
+The repository is organized into the following main categories, each with handy files and subfolders:
 
 <details>
 <summary> <strong>0x01 | Bug Bounty Notes and Templates</strong></summary>
@@ -33,20 +37,26 @@ The repository is organized into the following main categories, each containing 
 
 1. VS-Code Custom Agent
      * [Astra](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/Astra.agent.md)
-
+     * [ReportAI](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/ReportAI.agent.md)
 </details>
 
-**How to Use this Repository**
+---
 
-- **Fork** this repository to your own GitHub account.
-- **Clone** your fork to your local machine.
-- **Explore** the contents of the repository, using the linked Markdown files (`.md`) as a guide to navigate the resources.
-- **Contribute** by submitting a pull request with any improvements, additions, or corrections you'd like to see.
+## Getting Started
 
-**Disclaimer**
+1. **Fork** this repo to your own GitHub account.
+2. **Clone** it to your local machine.
+3. **Explore** the folders and files—check out the linked Markdown files (`.md`) for guides and tips.
+4. **Contribute** by opening a pull request if you have ideas, fixes, or new resources to share.
 
-This repository is for educational and ethical hacking purposes only. Always ensure you have explicit permission before testing the security of any system or network. Unauthorized access is illegal and unethical.
+## Contributing
 
-Happy learning and hacking! 💥
+Contributions are always welcome! If you spot something to improve or want to add your own notes or tools, just jump in. For bigger changes, feel free to open an issue first so we can chat about it.
+
+## Disclaimer
+
+This repository is for educational and ethical hacking purposes only. Please always get explicit permission before testing the security of any system or network. Unauthorized access is illegal and not cool.
 
 ---
+
+Happy learning and hacking! 💥
