@@ -38,7 +38,7 @@ The repository is organized into the following main categories, each with handy 
 1. VS-Code Custom Agent
            * [Astra](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agents/Astra.agent.md)
            
-           * [ReportAI](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agent/ReportAI.agent.md)
+           * [ReportAI](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agents/ReportAI.agent.md)
 </details>
 
 ---
