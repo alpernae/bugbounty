@@ -35,9 +35,9 @@ The repository is organized into the following main categories, each with handy 
 <details>
 <summary> <strong>0x04 | AI/LLM and Agent</strong></summary>
 
-1. VS-Code Custom Agent
-          * [Astra](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agents/Astra.agent.md)  
-          * [ReportAI](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agents/ReportAI.agent.md)
+1.  VS-Code Custom Agent
+           * [Astra](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agents/Astra.agent.md)
+           * [ReportAI](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agents/ReportAI.agent.md)
 </details>
 
 ---
