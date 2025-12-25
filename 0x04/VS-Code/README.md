@@ -8,8 +8,9 @@ The `0x04` directory contains resources for integrating AI-powered agents into y
 0x04/
 ├── README.md
 └── VS-Code/
-    ├── Astra.agent.md
-    └── ReportAI.agent.md
+    ├── agents/
+        └── Astra.agent.md
+        └── ReportAI.agent.md
 ```
 
 ## Astra Agent

@@ -7,12 +7,10 @@ The `0x04` directory collects supporting resources for bug bounty workflows. It 
 ```
 0x04/
 ├── README.md
-├── VS-Code/
-│   └── Astra.agent.md
-├── ReportAI/
-│   └── ReportAI.agent.md
-└── Copilot/
-	└── Copilot.agent.md
+└── VS-Code/
+    ├── agents/
+        └── Astra.agent.md
+        └── ReportAI.agent.md
 ```
 
 ## Contents
