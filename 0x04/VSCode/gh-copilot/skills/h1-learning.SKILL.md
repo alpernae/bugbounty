@@ -5,8 +5,8 @@ description: Guide for accessing, parsing, and learning from HackerOne reports u
 
 To learn from HackerOne reports via MCP, follow this process:
 
-1. Use the `fetch_hackerone_reports_mcp` tool to access report URLs or provide MCP credentials for integration.
-2. Use the `parse_report_content` tool to extract:
+1. Use the `hackerone-mcp-server` tool to access report URLs or provide MCP credentials for integration.
+2. Use the report parsing tool to extract:
    - Title
    - Summary
    - Vulnerability type
