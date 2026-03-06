@@ -15,36 +15,38 @@ The repository is organized into the following main categories, each with handy 
 <summary> <strong>0x01 | Bug Bounty Notes and Templates</strong></summary>
 
 1. Bug Bounty Testing Note Template
-     - [Personal Bug Bounty Testing Note](https://github.com/alpernae/bugbounty/blob/main/0x01/BugBountyTestingNoteTemplate.md)
+     - [BBTNT.md](0x01/BBTNT.md)
 
 </details>
 
 <details>
-
 <summary> <strong>0x02 | Bug Bounty Tools</strong></summary>
 
 1. HackerOne Related Tools
-     - [HackerOne](https://github.com/alpernae/bugbounty/tree/main/0x02/HackerOne)
+     - [HackerOne](0x02/HackerOne/README.md)
+     - [GetScopes](0x02/HackerOne/GetScopes/README.md)
+     - [h1fetcher](0x02/HackerOne/h1fetcher/README.md)
+2. Misconfiguration Scripts
+     - [Misconfiguration](0x02/Misconfiguration/README.md)
 
 </details>
 
 <details>
-
 <summary> <strong>0x03 | Custom Bambda Scripts</strong></summary>
 
 1. Bambda Action Scripts
-     - [Cookie Swap](https://github.com/alpernae/bugbounty/blob/main/0x03/BamdaAction/CookieSwap.bambda)
+     - [CookieSwap.bambda](0x03/BamdaAction/CookieSwap.bambda)
+     - [BamdaAction README](0x03/BamdaAction/README.md)
 
 </details>
 
 <details>
 <summary> <strong>0x04 | AI/LLM and Agent</strong></summary>
 
-1. VS-Code Custom Agent
-     
-     - [Astra](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agents/Astra.agent.md)
-     
-     - [ReportAI](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agents/ReportAI.agent.md)
+1. GitHub Copilot Custom Agents and Skills
+     - [gh-copilot/agents](0x04/VSCode/gh-copilot/agents/)
+     - [gh-copilot/skills](0x04/VSCode/gh-copilot/skills/)
+     - [VSCode README](0x04/VSCode/README.md)
 
 </details>
 
@@ -61,35 +63,3 @@ The repository is organized into the following main categories, each with handy 
 
 Contributions are always welcome! If you spot something to improve or want to add your own notes or tools, just jump in. For bigger changes, feel free to open an issue first so we can chat about it.
 
-<details>
-<summary> <strong>0x01 | Bug Bounty Notes and Templates</strong></summary>
-
-1. Bug Bounty Testing Note Template
-     - [Personal Bug Bounty Testing Note](https://github.com/alpernae/bugbounty/blob/main/0x01/BugBountyTestingNoteTemplate.md)
-
-</details>
-
-<details>
-<summary> <strong>0x02 | Bug Bounty Tools</strong></summary>
-
-1. HackerOne Related Tools
-     - [HackerOne](https://github.com/alpernae/bugbounty/tree/main/0x02/HackerOne)
-
-</details>
-
-<details>
-<summary> <strong>0x03 | Custom Bambda Scripts</strong></summary>
-
-1. Bambda Action Scripts
-     - [Cookie Swap](https://github.com/alpernae/bugbounty/blob/main/0x03/BamdaAction/CookieSwap.bambda)
-
-</details>
-
-<details>
-<summary> <strong>0x04 | AI/LLM and Agent</strong></summary>
-
-1. VS-Code Custom Agent
-     - [Astra](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agents/Astra.agent.md)
-     - [ReportAI](https://github.com/alpernae/bugbounty/blob/main/0x04/VS-Code/agents/ReportAI.agent.md)
-
-</details>

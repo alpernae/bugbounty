@@ -1,19 +1,9 @@
-# BBTools
+# 0x02
 
-The `bbtools` directory contains a collection of custom scripts and utilities aimed at improving the efficiency of bug bounty hunting. These tools are designed to automate common tasks, streamline workflows, 
-and help bounty hunters focus on identifying security vulnerabilities.
+This folder contains tools and scripts for bug bounty automation, including HackerOne utilities and misconfiguration checkers.
 
-# BBTools Folder Structure
+## Subfolders
+- **HackerOne/**: Tools for interacting with the HackerOne platform, including scope collectors and API utilities.
+- **Misconfiguration/**: Scripts for identifying and exploiting common web application misconfigurations.
 
-```
-bbtools/
-├── Hackerone/
-│   ├── h1fetcher.sh
-├── Misconfiguration/
-│   ├── corshunter.sh
-|
-```
-Misconfiguration
-### Explanation:
-- **Hackerone/**: Contains tools specific to HackerOne.
-- **Misconfiguration/**: Contains tools specific to Misconfiguration vulnerabilities.
+Each subfolder contains its own README with details and usage instructions.
