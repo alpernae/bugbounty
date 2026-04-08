@@ -1,17 +1,23 @@
-# Bambda Action Scripts
+# BamdaAction Scripts
 
-The `BamdaAction` directory contains a collection of custom Bambda action scripts designed to improve the efficiency of bug bounty hunting. These scripts automate common tasks in Burp Suite Repeater, streamline workflows, and help bounty hunters focus on identifying security vulnerabilities.
+This folder contains Bambda action scripts for Burp Suite Repeater.
 
-Burp Suite Bambda Action Scripts empower you to automate and optimize your bug bounty workflow. Acting as programmable assistants within Burp Suite, these scripts can handle repetitive or complex tasks—such as vulnerability scanning, automated reconnaissance, or executing custom exploits—so you can focus on analysis and creativity. By leveraging Bambda Action Scripts, you can ensure consistency, save time, and make your security testing process more efficient and enjoyable.
+## Folder Structure
 
-# Bambda Action Folder Structure
-
-```
+```text
 BamdaAction/
 ├── CookieSwap.bambda
 └── README.md
 ```
 
-### Explanation
+## Available Script
 
-- **CookieSwap.bambda**: Intercepts and modifies an HTTP request by replacing its `Cookie` header with another user's session cookie for IDOR/privilege escalation testing. Logs the response status and prints either the response body or redirect location.
+- `CookieSwap.bambda`
+	- Rewrites the outgoing `Cookie` header with a different session value.
+	- Helps test cross-account access and broken authorization scenarios.
+	- Logs response status and key response details for quick verification.
+
+## Notes
+
+- Use against targets where you have explicit permission.
+- Record observed behavior in your engagement notes or report template.

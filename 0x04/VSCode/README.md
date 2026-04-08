@@ -1,41 +1,37 @@
-# 0x04 VSCode Copilot Agents
+# 0x04/VSCode - GitHub Copilot Agents and Skills
 
-The `0x04/VSCode` directory contains resources for integrating AI-powered agents and skills into your bug bounty workflow using Visual Studio Code (VS Code) Copilot.
+This folder contains GitHub Copilot customization assets used in security workflows.
 
 ## Folder Structure
 
-```
-0x04/
+```text
+0x04/VSCode/
 ├── README.md
-└── VSCode/
-    ├── gh-copilot/
-    │   ├── agents/
-    │   │   ├── CoderBeast.agent.md
-    │   │   ├── ReportAI.agent.md
-    │   │   ├── SecurityResearcherAI.agent.md
-    │   └── skills/
-    │       ├── SKILL.md
-    │       └── h1-learning.SKILL.md
-    └── README.md
+└── gh-copilot/
+    ├── agents/
+    │   ├── CoderBeast.agent.md
+    │   ├── ReportAI.agent.md
+    │   └── SourceCodeSecurityResearcher.agent.md
+    └── skills/
+        ├── SKILL.md
+        └── h1-learning.SKILL.md
 ```
 
-## Copilot Custom Agents
+## Agents
 
-The following agents are available in `gh-copilot/agents/`:
+- `gh-copilot/agents/CoderBeast.agent.md`: coding-focused assistant persona.
+- `gh-copilot/agents/ReportAI.agent.md`: converts findings into structured vulnerability reports.
+- `gh-copilot/agents/SourceCodeSecurityResearcher.agent.md`: source-code security analysis persona.
 
-- **CoderBeast.agent.md**: Quantum cognitive coding agent for advanced automation and adversarial analysis.
-- **ReportAI.agent.md**: Transforms security findings into structured, actionable vulnerability reports.
-- **SecurityResearcherAI.agent.md**: Elite autonomous security researcher and blackbox web tester.
+## Skills
 
-## Copilot Skills
-
-The following skills are available in `gh-copilot/skills/`:
-
-- **SKILL.md**: Template and reference for side skills, workflows, and methodologies.
-- **h1-learning.SKILL.md**: Automates learning from HackerOne reports for agent knowledge improvement.
+- `gh-copilot/skills/SKILL.md`: reusable skill template and workflow guidance.
+- `gh-copilot/skills/h1-learning.SKILL.md`: learns patterns from HackerOne disclosures.
 
 ## Usage
 
-1. Open the relevant agent or skill file in `gh-copilot/agents/` or `gh-copilot/skills/` to review its configuration and instructions.
-2. Load or reference the appropriate prompt when running the agent inside your workflow (e.g., in VS Code for Copilot, or in reporting tools for ReportAI).
-3. Follow the output format defined in each prompt to keep findings and reports concise and verifiable.
+1. Open a target agent or skill file.
+2. Adapt prompt instructions to the engagement scope.
+3. Validate output against real evidence before reporting.
+
+Use only in authorized programs and legal testing contexts.

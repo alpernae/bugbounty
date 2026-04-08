@@ -1,0 +1,10 @@
+interface:
+  display_name: "Security Reviewer"
+  short_description: "Exploitability-first OWASP and LLM security review with project memory tracking."
+  icon_small: "./assets/security-reviewer-icon.svg"
+  icon_large: "./assets/security-reviewer-icon.svg"
+  brand_color: "#0F766E"
+  default_prompt: "Review this repository for exploitable security issues. Spawn security_research_coordinator, let it delegate to specialist subagents, wait for all results, and return a ranked report with evidence, exploit path, business impact, and remediation guidance without patch code."
+
+policy:
+  allow_implicit_invocation: true

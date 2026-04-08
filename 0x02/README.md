@@ -1,9 +1,14 @@
-# 0x02
+# 0x02 - Bug Bounty Tools (Planned)
 
-This folder contains tools and scripts for bug bounty automation, including HackerOne utilities and misconfiguration checkers.
+This folder is reserved for tooling and automation utilities.
 
-## Subfolders
-- **HackerOne/**: Tools for interacting with the HackerOne platform, including scope collectors and API utilities.
-- **Misconfiguration/**: Scripts for identifying and exploiting common web application misconfigurations.
+## Current State
 
-Each subfolder contains its own README with details and usage instructions.
+- Only this `README.md` is present.
+- The previous structure references to `HackerOne/` and `Misconfiguration/` are no longer part of the repository.
+
+## Recommended Usage
+
+1. Add each new tool in its own subfolder.
+2. Include a dedicated README per tool with setup, usage, and output examples.
+3. Keep this top-level README updated with links to active tool folders.

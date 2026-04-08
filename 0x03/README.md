@@ -1,10 +1,10 @@
-# 0x03
+# 0x03 - Burp Bambda Scripts
 
-The `0x03` directory contains Burp Suite Bambda action scripts to automate and streamline common bug bounty tasks. These actions help accelerate testing workflows while keeping evidence and behavior consistent.
+This module contains Burp Suite Bambda actions used to automate repeatable bug bounty checks.
 
 ## Folder Structure
 
-```
+```text
 0x03/
 ├── README.md
 └── BamdaAction/
@@ -12,15 +12,16 @@ The `0x03` directory contains Burp Suite Bambda action scripts to automate and s
     └── README.md
 ```
 
-## Contents
+## Scripts
 
-- **BamdaAction/**: Collection of Bambda action scripts for Burp Suite Repeater automation.
-  - **CookieSwap.bambda**: Rewrites the `Cookie` header with another session token to test IDOR/privilege escalation scenarios, logging responses and redirects.
+- `BamdaAction/CookieSwap.bambda`
+  - Replaces the request `Cookie` header with a supplied session token.
+  - Useful for IDOR and privilege boundary validation workflows.
 
 ## Usage
 
-1. Open the desired `.bambda` script in Burp Suite Repeater.
-2. Apply the action to the relevant request to automate header manipulation or other scripted behavior.
-3. Review logs/output to validate responses and potential issues.
+1. Open the script in Burp Repeater Bambda Actions.
+2. Run it against authorized requests.
+3. Compare response behavior, status codes, and redirects for access-control issues.
 
-Use these scripts only in authorized environments and programs.
+Use only in authorized testing environments.

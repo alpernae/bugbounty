@@ -1,0 +1,10 @@
+interface:
+  display_name: "Burp Blackbox Tester"
+  short_description: "Burp MCP-driven black-box web and API security testing with evidence-first reporting."
+  icon_small: "./assets/burp-blackbox-tester-icon.svg"
+  icon_large: "./assets/burp-blackbox-tester-icon.svg"
+  brand_color: "#B45309"
+  default_prompt: "Perform a Burp MCP-driven black-box security review. Spawn burp_blackbox_coordinator to orchestrate surface mapping, exploit validation, and logic/race testing. Return a ranked report where each finding includes baseline+attack raw HTTP evidence (redacted), minimal response/side-effect proof, severity/confidence, preconditions, impact, and control-level remediation guidance without patch code; include at least one false-positive elimination check per finding plus testing gaps and scope assumptions."
+
+policy:
+  allow_implicit_invocation: true
